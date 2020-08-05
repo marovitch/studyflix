@@ -42,7 +42,7 @@ transition:opacity .3s;
 
 `;
 
-export const VideoCardList = styled.ul`
+export const Slider = styled.ul`
   list-style:none;
   display:flex;
   padding-left:0;
